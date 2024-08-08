@@ -1,6 +1,6 @@
 <h1>Hey, I am Kobe Vervoort</h1>
 <p align="center">I am an IT Computer Science Software University Student who is interested in coding! :)</p>
-<p align="center">I know my way around: <br>.NET C#, Java, HTML, CSS, Javascript, NodeJS, TypeScript, Golang, Flutter/Dart, Python, Arduino, MySQL, MongoDB, Redis & MS SQLSRV.</p>
+<p align="center">I know my way around: <br>.NET C#, Java, HTML, CSS, Javascript, NodeJS, TypeScript, Angular, ExpressJS, Golang, Flutter/Dart, Python, Arduino, MySQL, MongoDB, Redis, Firebase & MS SQLSRV.</p>
  
  <h1>GitHub Activity</h1>
  <p align="center">
